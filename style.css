@@ -6,7 +6,7 @@
 
 .cabecalho{
     background-color: rgb(43, 131, 247);
-    color: rgb(43, 141, 226);
+    color: #FFFFFF;
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
@@ -23,7 +23,7 @@
     font-size: 24px;
 }
 
-.cabecalho-lista-item a{
+.cabecalho-lista-item a {
     text-decoration: none;
     color:#FFFFFF;
 }
