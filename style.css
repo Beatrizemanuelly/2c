@@ -54,10 +54,22 @@ a:active{
 
 .escola-div-conteudo{
     width: 45%;
+    color:#000000
 }
 
 .escola-titulo{
     padding:24px 0;
+    font-size:25px;
+}
+
+.escola-texto{
+    font-size:20px;
+}
+
+.imagem-escola{
+    width: 30%;
+    height: 300px;
+    border-radius:82px;
 }
 
 p{
