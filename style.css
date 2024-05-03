@@ -89,7 +89,7 @@ p{
 }
 
 .estudante-todos{
-    display: grid;
+    display:grid;
     grid-template-columns: 25% 25% 25% 25%;
     padding: 0 60px;
 }
@@ -109,7 +109,7 @@ p{
 
 .estudante-icone{
     width: 24px;
-    padding: 4px 8px ;
+    padding: 4px 8px;
 }
 
 p{
